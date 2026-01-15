@@ -1,18 +1,4 @@
-## Hi there 👋
-
-<!--
-**AmanThappa15/AmanThappa15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...# 💫 About Me:
+# 💫 About Me:
 Second-year B.Tech IT student passionate about C++ & DSA and MERN stack development. Actively seeking opportunities to collaborate on open-source projects and build real-world applications. A dedicated sports enthusiast with a strong team spirit and growth mindset
 
 
@@ -27,4 +13,3 @@ Second-year B.Tech IT student passionate about C++ & DSA and MERN stack developm
 [![](https://visitcount.itsvg.in/api?id=AmanThappa15&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
