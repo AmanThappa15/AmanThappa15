@@ -1,5 +1,5 @@
 # 💫 About Me:
-Second-year B.Tech IT student passionate about C++ & DSA and MERN stack development. Actively seeking opportunities to collaborate on open-source projects and build real-world applications. A dedicated sports enthusiast with a strong team spirit and growth mindset
+Third-Year B.Tech IT student passionate about C++ & DSA and MERN stack development. Actively seeking opportunities to collaborate on open-source projects and build real-world applications. A dedicated sports enthusiast with a strong team spirit and growth mindset
 
 
 # 💻 Tech Stack:
